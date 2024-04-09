@@ -9,3 +9,5 @@ Are there any peak times for sales activity?
 • what is the average price/order per person?
 • Which products are the best-selling in terms of quantity and revenue?
 • How do sales vary by product category and type?
+
+![image](https://github.com/ashutoshcgm/Coffee-Shop-Sales-Dashboard-Insights-on-Excel/assets/87574252/09cfc75b-d522-4d03-aa46-234a4d2607fc)
